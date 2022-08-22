@@ -10,10 +10,10 @@ Na era digital em que se vive atualmente, principalmente durante e pós a Pandem
 4 - Dos países que foram avaliados, qual os 5 países que tem a maior taxa de usabilidade de internet em relação a população?   
 5 - Faça um gráfico que mostre o número de países que apresentem uma taxa de usabilidade maior que 75% agrupados por Continente?   
 6 - Calcule a amplitude de preço entre os planos de internet.  
-7 - Usando somente o seabron e matplotlib, construa um gráfico que mostre o valor médio, máximo e mínimo dos maiores preços para cada região.   
+7 - Usando somente o seaborn e matplotlib, construa um gráfico que mostre o valor médio, máximo e mínimo dos maiores preços para cada região.   
 8 - Supondo que a gente more no Reino Unido (United Kingdom), usando a velocidade média e o preço médio, quantos Dolares eu pagaria se utiliza-se uma hora de internet?  
 9 - Utilizando os mesmos parâmetros da etapa anterior, supondo que você seja um dono de uma empresa que precisa instalar a internet no prédio e precisa fazer um orçamento. A empresa responsável disse que se você contratar um pacote até 50000Gb por dia é 300 Dolares, até 65000 é 350 Dolares e acima disso é 450 Dolares. Supondo que você tenha 300 funcionários, trabalhando 8 horas no dia, qual plano seria ideal para você?  
-10 - Somente com uma visualização gráfica, comparando o preço médio em 2020 e 2021, com uma linha de tendência (Gráfico identidade x = y), conclusa se o preço médio da internet ficou mais barato ou caro de 2020 para 2021.   
+10 - Somente com uma visualização gráfica, comparando o preço médio em 2020 e 2021, com uma linha de tendência (Gráfico identidade x = y), conclua se o preço médio da internet ficou mais barato ou caro de 2020 para 2021.   
   
 Instruções primordiais: Alguns dados estão ausentes nos 3 datasets, mas representam pouco perto da análise total. Portanto, utilize os 3 datasets fornecidos (df1,df2,df3).  
   
